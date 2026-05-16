@@ -1,4 +1,4 @@
-const int LED_PIN = 13;
+const int LED_PIN = 23;
 
 unsigned long previousMillis = 0;
 const unsigned long interval = 500;
