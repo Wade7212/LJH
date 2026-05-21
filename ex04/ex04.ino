@@ -1,7 +1,7 @@
 const int LED_PIN = 32;
 const int TOUCH_PIN = T0;
 
-const int TOUCH_THRESHOLD = 30;
+const int TOUCH_THRESHOLD = 300;
 const unsigned long DEBOUNCE_TIME = 200;
 
 bool ledState = false;
