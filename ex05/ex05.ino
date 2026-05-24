@@ -1,5 +1,5 @@
-const int LED_PIN = 2;
-const int TOUCH_PIN = T0;
+const int LED_PIN = 23;
+const int TOUCH_PIN = 32;
 
 const int TOUCH_THRESHOLD = 300;
 const unsigned long DEBOUNCE_TIME = 200;
